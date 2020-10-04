@@ -19,3 +19,5 @@ Depends:
 Imports: 
     tibble,
     dplyr
+URL: https://github.com/dedi0003/cwdata
+BugReports: https://github.com/dedi0003/cwdata/issues
